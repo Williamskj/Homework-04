@@ -1,1 +1,5 @@
 # Homework-04
+
+## What I did and How I did It.
+
+Oh boy, this project was very tricky. Juggling multiple functions and trying to make sure that everything worked correctly was stressful and challenging. The hardest part was figuring out all the variables I needed from the HTML, and figuring out what those functions had to do and how many I needed to get this thing to "function". The main thing I did was look at multiple examples of quiz codes on the internet, but that barely helped, considering every person had a different way of producing a similar product, and all said code looked very different. The amount of creativity and individualism was actually overwhelming and made it difficult to understand what each line of code meant. I eventually settled on 1 and used it as a basis to get a skeleton together. After which, I got the JSON.array and the local storage to work properly, and display the results on the screen. After that, did a smidge of CSS, and added some extra funtions to help make things happen a bit smoother.
